@@ -1,25 +1,33 @@
 // Qno01:
-// alert("Heyy, Welcome to this site!");
+// var age1 = 18;
+// var age2 = " years old";
+// var both = age1 + age2;
+// alert(both);
 
 // Qno02:
-// alert("Error! Please enter valid Password.");
+// var num = 1;
+// alert("You have visited a side " +num+ " times");
+//  num = num + 1;
+// alert("You have visited a side " +num+ " times");
+//  num = num + 1;
+// alert("You have visited a side " +num+ " times");
+//  num = num + 1;
+// alert("You have visited a side " +num+ " times");
 
 // Qno03:
-// alert("Welcome to JS land..\nHappy Coding!");
+// var birthYear = 2006;
+// var year = "My birth year is 2006.. <br/> Data type of my declared variable is number..";
+// document.write(year);
 
 // Qno04:
-// alert("Welcome to JS landing..");
-// alert("Happy Coding! \n Prevent this page from creating additional dialogs.");
+// var storemail = "www.xyzClothing.com";
+// var name = "Goerge";
+// var productTitle = "sweatshirt";
+// var quantity = 2;
+// var statement = "Goerge ordered 2 sweatshirts on xyzClothingStore..";
+// document.write(statement);
 
-// Qno05:
-// alert("Hello!! i can run JS through my web browser's console");
 
-// Qno06:
-// function show(){
-//     var alert= Document.getElementById("container");
-//     alert.style.display="block"
-// }
-// function hide(){
-//     var alert=Document.getElementById("container");
-//     alert.style.display="none"
-// }
+
+
+
